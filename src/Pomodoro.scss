@@ -1,0 +1,25 @@
+.pomodoro{
+  font-size: 2em;
+  color: white;
+  button {
+    margin: 10px;
+    font-size: 2em;
+    border-radius: 10px;
+    padding: 1rem;
+  }
+  .flexRaw{
+    display: flex;
+    justify-content: space-around;
+  }
+  .parameters{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size: 0.5em;
+    margin-bottom: 2em;
+    button{
+      border-radius: 10px;
+    }
+  }
+}
+
