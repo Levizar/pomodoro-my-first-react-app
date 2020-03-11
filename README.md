@@ -26,18 +26,16 @@ Thanks to my [Woods team-mates](https://github.com/orgs/becodeorg/teams/crl-wood
 Indeed, due to the declarative behavior of react, setInterval was refering the initial state of one view and started over and over from this state.
 [This article](https://overreacted.io/making-setinterval-declarative-with-react-hooks/) helped me a lot. It gave me a solution and a good explanation with it.
 
-- Developping this project teached me lot about React: 
+- Developping this project taught me lot about React: 
     - I learned how to use hooks
-    - I learned that I can directly use SASS and import it in my React components instead of importing CSS.
+    - I learned that I can directly use SASS and import it in my React components instead of importing "raw" CSS.
+    - I learned how to deploy react app on github
 
-- Initialy I started the project using 
 
 ## How to test it:
 
-### Requirement:
+Just visit this site: [pomodoro-my-first-react-app](https://levizar.github.io/pomodoro-my-first-react-app)
 
-- XXX
+### Still todo:
 
-### Todo:
-
-- XXX
+- Change the useEffect hook by useReducer
