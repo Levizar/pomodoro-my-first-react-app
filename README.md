@@ -29,7 +29,7 @@ Indeed, due to the declarative behavior of react, setInterval was refering the i
 - Developping this project taught me lot about React: 
     - I learned how to use hooks
     - I learned that I can directly use SASS and import it in my React components instead of importing "raw" CSS.
-    - I learned how to deploy react app on github
+    - I learned how to deploy react app on github (Thanks to [gitname](https://github.com/gitname/react-gh-pages/tree/gh-pages))
 
 
 ## How to test it:
